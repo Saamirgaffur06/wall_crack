@@ -34,4 +34,4 @@ Step 3:-
 
 
 
-      You can train the model in the train.py file using the datset and can obtain higher accuracy and then predict with the real time images
+      You can train the model in the train.py file using the dataset and can obtain higher accuracy and then predict with the real time images in the predict.py file
